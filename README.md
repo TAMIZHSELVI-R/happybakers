@@ -1,2 +1,2 @@
 # happybakers
-https://github.com/tamizhammu/happybakers
+https://tamizhammu.github.io/happybakers/
