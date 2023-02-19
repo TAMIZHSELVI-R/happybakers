@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: seashell;
+    
+}
+header{
+    dispaly:flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: 900;
+    padding: 15px 20px;
+    color: black;
+    background-color: aqua;
+}
+.tamizh{
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: 600;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ h2{
+     font-size: 25px;
+     margin-bottom: 3%;
+     font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+ h3{
+    font-size: 20px;
+    margin-bottom: 3%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span{
+    color: rgb(161, 30, 144) ;
+}
+button{
+    padding: 15px 30px;
+    margin-bottom: 1%;
+    background: rgb(236, 27, 174);
+    color: black;
+    font-size: 17px;
+    border-radius: 10px;
+    border-color: rgb(226, 96, 103);
+    
+}
+button:hover{
+    background: white;
+}
+.img{
+    height: 100px;
+    width: 100px;
+
+   
+}
+li{
+    list-style: none;
+}
+main{
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(137, 43, 226, 0.466);
+    height: 500px;
+    width: 80%;
+    border-radius: 6px;
+
+}
